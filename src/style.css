@@ -1,6 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
-#generatedStrings {
+#generated-strings {
   font-size: xx-large;
   text-align: center;
+  background-color: black;
+  font-display: white;
 }
